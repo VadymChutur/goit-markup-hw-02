@@ -1,0 +1,15 @@
+:root {
+  --main-text: #212121;
+  --secondary-text: #757575;
+  --third-text: #ffffff99;
+  --main-title: #ffffff;
+  --secondary-title: #212121;
+  --accent-color: #2196f3;
+  --secondary-color: #000000;
+  --main-background: #2f303a;
+  --secondary-background: #f5f4fa;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+}
