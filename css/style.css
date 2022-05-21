@@ -101,6 +101,7 @@ body {
 }
 
 .hero-btn {
+  font-family: inherit;
   font-weight: 700;
   font-size: 16px;
   line-height: 1.88;
@@ -162,8 +163,6 @@ body {
   color: var(--secondary-title);
 }
 .team-item-text {
-  font-weight: 400;
-  font-size: 16px;
   line-height: 1.18;
   text-align: center;
   letter-spacing: 0.03em;
@@ -179,7 +178,7 @@ body {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 26px;
-  line-height: 1.19x;
+  line-height: 1.19;
   letter-spacing: 0.03em;
   color: var(--main-title);
 }
@@ -196,7 +195,6 @@ body {
 .footer-list {
 }
 .footer-address-link {
-  font-weight: 400;
   font-size: 14px;
   line-height: 1.71;
   letter-spacing: 0.03em;
@@ -219,6 +217,7 @@ body {
 /* ----------------------------------------------------------------portfolio-------------------------------------------------------------- */
 
 .portfolio-item-btn {
+  font-family: inherit;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.62;
@@ -241,7 +240,6 @@ body {
   color: var(--secondary-title);
 }
 .portfolio-item-text {
-  font-size: 16px;
   line-height: 1.88;
   letter-spacing: 0.03em;
   color: var(--secondary-text);
