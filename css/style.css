@@ -40,6 +40,10 @@ body {
   text-decoration: none;
 }
 
+.header-list .current {
+  color: var(--accent-color);
+}
+
 /* ----------------------------------------------------------------header-------------------------------------------------------------- */
 .header {
   background-color: var(--third-background);
